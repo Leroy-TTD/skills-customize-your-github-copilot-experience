@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Write unit tests using pytest to verify code behavior, handle edge cases, and practice test-driven development principles.",
+      "path": "assignments/unit-testing-pytest",
+      "dueDate": "2026-06-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "test_solution.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
